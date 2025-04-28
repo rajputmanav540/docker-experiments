@@ -4,7 +4,7 @@ Welcome to my experiment portfolio! This repository showcases **13  projects** L
 
 ---
 
-## Table of Contents 💑
+## Table of Contents 
 
 1. [Docker Basics: Hello World](1.Hello_World/Docker_Basics)
 2. [Streamlit App Using Docker](2.Streamlit_Docker/Dockers_Streamlit)
